@@ -1,6 +1,4 @@
 # Sistema de cadastro 🖥
-Aprenda como criar um fantástico sistema com:
-<br>
 <ul>
   <li>Tela de Home</li>
   <li>Tela de Login</li>
@@ -13,4 +11,3 @@ Aprenda como criar um fantástico sistema com:
   <li>...</li>
 </ul>
 <br>
-Nossa playlist: https://youtube.com/playlist?list=PLSHNk_yA5fNjoIRNHV-3FprsN3NWPcnnK
